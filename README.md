@@ -9,5 +9,5 @@ The support of some function list from certain languages is not yet supported.
 The ``FunctionList.xml`` file here implements the support of the following language(s)
 ``R``.
 
-###Directions
+### Directions
 Download the file ``functionList.xml`` and replace the default in ``%APPDATA%/notepad++``.
